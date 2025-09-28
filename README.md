@@ -2,9 +2,8 @@
 <h3 align="left">Im Newbie for Coding</h3>
 
 
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :seedling: &nbsp;I’m currently working on my Fivem Server **[halfcity]**
+- :book: &nbsp;Learn more about my projects on my **[git]**
 - :computer: &nbsp;Connect with me on **[Ins]**
 
 <br>
@@ -74,8 +73,6 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [Ins]: https://www.instagram.com/txrokps_ "Ins"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[halfcity]: https://www.facebook.com/HalfcityRP "halfcity"
+[git]: https://github.com/ChocodevX "git"
