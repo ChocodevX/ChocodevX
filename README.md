@@ -39,6 +39,12 @@
       </a>
       <br>Mongodb
     </td>
+    <td align="center" width="96">
+      <a href="#img-logo" >
+        <img src="./img-logo/mongodb.svg" width="48" height="48" alt="sql" />
+      </a>
+      <br>SQL
+    </td>
   </tr>
 </table>
 
