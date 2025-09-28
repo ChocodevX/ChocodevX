@@ -5,7 +5,7 @@
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[Ins]**
 
 <br>
 
@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
-        <img src="./img-logo/tailwind.svg" width="48" height="48" alt="tailwind" />
+        <img src="./img-logo/tailwindcss.svg" width="48" height="48" alt="tailwind" />
       </a>
       <br>TAILWIND
     </td>
@@ -76,6 +76,6 @@
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[Ins]: https://www.instagram.com/txrokps_ "Ins"
 [homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
 [blog]: https://jacobcolvin.com/posts/ "My Blog"
