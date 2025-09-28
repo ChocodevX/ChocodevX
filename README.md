@@ -41,9 +41,33 @@
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
-        <img src="./img-logo/mongodb.svg" width="48" height="48" alt="sql" />
+        <img src="./img-logo/css.svg" width="48" height="48" alt="css" />
       </a>
-      <br>SQL
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#img-logo" >
+        <img src="./img-logo/html.svg" width="48" height="48" alt="html" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#img-logo" >
+        <img src="./img-logo/javascript.svg" width="48" height="48" alt="java" />
+      </a>
+      <br>JAVASCRIPT
+    </td>
+    <td align="center" width="96">
+      <a href="#img-logo" >
+        <img src="./img-logo/tailwind.svg" width="48" height="48" alt="tailwind" />
+      </a>
+      <br>TAILWIND
+    </td>
+    <td align="center" width="96">
+      <a href="#img-logo" >
+        <img src="./img-logo/typescript.svg" width="48" height="48" alt="typescript" />
+      </a>
+      <br>TYPESCRIPT
     </td>
   </tr>
 </table>
