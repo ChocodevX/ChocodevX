@@ -43,31 +43,31 @@
       <a href="#img-logo" >
         <img src="./img-logo/css.svg" width="48" height="48" alt="css" />
       </a>
-      <br>CSS
+      <br>Css
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
         <img src="./img-logo/html.svg" width="48" height="48" alt="html" />
       </a>
-      <br>HTML
+      <br>Html
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
         <img src="./img-logo/javascript.svg" width="48" height="48" alt="java" />
       </a>
-      <br>JAVASCRIPT
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
         <img src="./img-logo/tailwindcss.svg" width="48" height="48" alt="tailwind" />
       </a>
-      <br>TAILWIND
+      <br>TailWindCSS
     </td>
     <td align="center" width="96">
       <a href="#img-logo" >
         <img src="./img-logo/typescript.svg" width="48" height="48" alt="typescript" />
       </a>
-      <br>TYPESCRIPT
+      <br>TypeScript
     </td>
   </tr>
 </table>
