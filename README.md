@@ -22,7 +22,7 @@
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#img-logo">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
